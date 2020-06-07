@@ -1,0 +1,202 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #f5f7fa;
+    padding: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper {
+    background: #ffffff;
+    display: flex;
+}
+
+.sidebar {
+    background: #1e2939;
+    width: 370px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.my-photo {
+    width: 370px;
+}
+
+.about-me-container {
+    padding-left: 90px;
+    padding-right: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
+} 
+
+.contacts-container {
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.contacts-title {
+    font-size: 22px;
+font-weight: 700;
+line-height: 24px;
+color: #ffffff;
+margin-bottom: 20px;
+}
+
+.contact-link {
+    font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+color: #434c54;
+}
+
+.contacts-link-type {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #ffffff;
+    margin-right: 10px;
+}
+
+.tech-skills-title {
+    font-size: 22px;
+font-weight: 700;
+line-height: 24px;
+margin-bottom: 20px;
+color: #ffffff;
+}
+
+.tech-skills-container {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 55px;
+}
+
+.tech-skills-item {
+    font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+margin-left: 15px;
+color: #ff6b08;
+}
+
+.tech-skills-banking{
+    font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+margin-left: 15px;
+color: #ffffff;
+}
+
+.tech-skills-text {
+    color: #ffffff;  
+}
+
+.soft-skills-container {
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 55px;
+}
+
+.soft-skills-title
+{
+    font-size: 22px;
+font-weight: 700;
+line-height: 24px;
+margin-bottom: 20px;
+color: #ffffff;
+}
+
+.soft-skills-item {
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+    color: #ff6b08;
+}
+
+.soft-skills-text
+{
+    color: #ffffff;  
+}
+
+.about-me-one {
+    font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+}
+
+.about-me-two {
+    font-size: 45px;
+font-weight: 700;
+line-height: 89px;
+}
+
+.about-me-three {
+    font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+color: #595959;
+padding-top: 24px;
+padding-right: 71px;
+letter-spacing: 0.42px;
+width: 460px;
+}
+
+.project-container-one {
+    font-size: 22px;
+font-weight: 700;
+line-height: 24px;
+padding-top: 64px;
+}
+
+.project-container-two {
+    font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+color: #434c54;
+}
+
+.work-one {
+    font-size: 22px;
+font-weight: 700;
+line-height: 24px;
+padding-top: 52px;
+}
+
+.work-two {
+    font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+padding-top: 18px;
+}
+
+.work-two-one {
+    font-size: 12px;
+font-weight: 400;
+line-height: 24px;
+color: #a8a8a8;
+padding-top: 14px;
+}
+
+.work-three {
+    font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+padding-top: 14px;
+color: #595959;
+width: 460px;
+}
+
+.orange {
+    color: #ff8533;
+}
+
+.project-number
+{
+    font-weight: 700;
+}
